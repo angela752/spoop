@@ -1,0 +1,165 @@
+h3 {
+  color: #74dbef;
+  font-family: 'Hind', sans-serif;
+}
+
+h2 {
+  color: #0074e4;
+  font-family: 'Hind', sans-serif;
+}
+
+.Zareal_text {
+  font-family: 'Pacifico', cursive;
+  font-size: 90px;
+  color: #264e86;
+}
+
+.Fav_text {
+  font-family: 'Raleway', sans-serif;
+  font-weight: normal;
+  font-size: 2.5rem;
+  color: #264e86;
+}
+
+body {
+  text-align: center;
+  margin: 0;
+  color: #40514E;
+  font-size: 1.5rem;
+}
+
+.top-container {
+  background-color: #74dbef;
+  position: relative;
+  padding-top: 100px;
+}
+
+.top_cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px
+}
+
+.bottom_cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.skill-row {
+  margin: 100px auto;
+  width: 50%;
+  line-height: 2;
+  text-align: left;
+}
+
+.computer-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+  margin-bottom: 30px;
+}
+
+.ps-img {
+  width: 25%;
+  float: right;
+  margin-right: 50px;
+  margin-top: 50px;
+}
+
+p {
+  font-family: 'Hind', sans-serif;
+  line-height: 2;
+}
+
+.btn {
+  background: #264e86;
+  background: -webkit-linear-gradient(top, #264e86, #0074e4);
+  background: -moz-linear-gradient(top, #264e86, #0074e4);
+  background: -ms-linear-gradient(top, #264e86, #0074e4);
+  background: -o-linear-gradient(top, #264e86, #0074e4);
+  background: linear-gradient(to bottom, #264e86, #0074e4);
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 8px;
+  color: #FFFFFF;
+  font-family: 'Hind', sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  padding: 10px;
+  text-shadow: 1px 1px 20px #000000;
+  border: solid #0074e4 1px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.btn:hover {
+  border: solid #0074e4 1px;
+  background: #264e86;
+  background-image: -webkit-linear-gradient(top, #0074e4, #264e86);
+  background-image: -moz-linear-gradient(top, #0074e4, #264e86);
+  background-image: -ms-linear-gradient(top, #0074e4, #264e86);
+  background-image: -o-linear-gradient(top, #0074e4, #264e86);
+  background-image: linear-gradient(to bottom, #0074e4, #264e86);
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 8px;
+  text-decoration: none;
+}
+
+.footer-link {
+  font-family: 'Hind', sans-serif;
+  color: #74dbef;
+  text-decoration: none;
+
+}
+
+.copyright {
+  color: #EAF6F6;
+}
+
+.bottom-container {
+  background-color: #0074e4;
+  padding: 50px 0 20px 0;
+}
+
+hr {
+  border-color: #EAF6F6;
+  border-style: dotted;
+  width: 5%;
+  height: 20px;
+  border-bottom: 0;
+  border-left: 0;
+  border-right: 0;
+  border-width: 10px;
+  margin: 100px auto;
+}
+
+.zareal-img {
+  margin-top: 30px;
+  width: 15%;
+}
+
+.contact-text {
+  width: 40%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.navbar {
+  width: 100%;
+  position: fixed;
+  background-color: #74dbef;
+  font-family: '', sans-serif;
+  font-size: 3rem;
+}
+
+
+.nav_text {
+  margin: 0 auto;
+  font-family: 'Pacifico', cursive;
+  color: #264e86;
+}
